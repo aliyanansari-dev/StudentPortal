@@ -1,0 +1,6 @@
+{
+  "name": "GCT Bhakkar Student Portal",
+  "description": "Government College of Technology, Bhakkar - Computer Information Technology (CIT) Student & Faculty Portal featuring live timetable, attendance, grade curves, assignments, and notification center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
